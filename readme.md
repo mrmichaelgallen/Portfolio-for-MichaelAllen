@@ -4,6 +4,13 @@ I love solving problems whether it be personal or technical. Learning and coding
 
 This repository is specifically meant for creations that I made while trying to solve a specific challenge.
 
-<strong>SQL Database</strong>
+<strong>HTML & CSS</strong>
+<ul>
+<li>Build a login page</li>
+</ul>
 
-Build a [Community Library Database](SQL/readme.md)
+<strong>SQL Database</strong>
+<ul>
+<li>Build a [Community Library Database](SQL/readme.md)</ul>
+</ul>
+
