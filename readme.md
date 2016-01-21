@@ -11,6 +11,5 @@ This repository is specifically meant for creations that I made while trying to 
 
 <strong>SQL Database</strong>
 <ul>
-<li>Build a [Community Library Database](SQL/readme.md)</ul>
+<li>Build a [Community Library Database](SQL/readme.md) </li>
 </ul>
-
