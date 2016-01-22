@@ -1,4 +1,4 @@
-### SQL Library Pratical
+### SQL Library Practical
 ***
 
 #### Objective
