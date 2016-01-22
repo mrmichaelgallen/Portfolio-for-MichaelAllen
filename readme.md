@@ -5,7 +5,7 @@ I love solving problems whether it be personal or technical. Learning and coding
 
 This repository is specifically meant for creations that I made while trying to solve a specific challenge.
 
-<strong>HTML & CSS</strong>
+__HTML & CSS__
 
 * Build a login page
 
