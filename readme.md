@@ -14,7 +14,7 @@ This repository is a my solutions to programming challenges that I resolved.
 * Built a [Community Library Database](SQL/) Drill
 
 #### JavaScript
-* Built
+* Built a script to scroll through images 
 
 #### Python
 * Currently taking course
