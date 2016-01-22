@@ -1,0 +1,102 @@
+1	,	The Great Gatsby	,	Harper Collins
+2	,	The Scarlet Letter	,	ThomsonReuters
+3	,	The Adventures of Huckleberry Finn	,	Cengage
+4	,	Of Mice and Men	,	Wiley
+5	,	To Kill a Mockingbird	,	Oxford
+6	,	The Catcher in the Rye	,	Simon & Schuster
+7	,	The Grapes of Wrath	,	Blue Press
+8	,	Their Eyes Were Watching God	,	Oldford Publishing
+9	,	The Crucible	,	The Bonnier Group
+10	,	The Things They Carried	,	Allen Literary Press
+11	,	The Awakening	,	Harper Collins
+12	,	Ethan Frome	,	ThomsonReuters
+13	,	Fahrenheit 451	,	Cengage
+14	,	A Raisin in the Sun	,	Wiley
+15	,	The Red Badge of Courage	,	Oxford
+16	,	The House on Mango Street	,	Simon & Schuster
+17	,	The Jungle	,	Blue Press
+18	,	A Separate Peace	,	Oldford Publishing
+19	,	The Sun Also Rises	,	The Bonnier Group
+20	,	Anthem	,	Allen Literary Press
+21	,	The Old Man and the Sea	,	Harper Collins
+22	,	As I Lay Dying	,	ThomsonReuters
+23	,	The Color Purple	,	Cengage
+24	,	A Farewell to Arms	,	Wiley
+25	,	The Secret Life of Bees	,	Oxford
+26	,	Invisible Man	,	Simon & Schuster
+27	,	Native Son (abridged)	,	Blue Press
+28	,	My Antonia	,	Oldford Publishing
+29	,	Narrative of the Life of 	,	The Bonnier Group
+30	,	Beloved 	,	Allen Literary Press
+31	,	Hiroshima	,	Harper Collins
+32	,	Moby Dick	,	ThomsonReuters
+33	,	One Flew over the Cuckoo’s Nest	,	Cengage
+34	,	Black Boy	,	Wiley
+35	,	Bless Me, Ultima	,	Oxford
+36	,	Death of a Salesman	,	Simon & Schuster
+37	,	In Cold Blood: A True Account of a Multiple Murder and Its Consequences	,	Blue Press
+38	,	A Lesson Before Dying	,	Oldford Publishing
+39	,	Slaughterhouse-Five	,	The Bonnier Group
+40	,	The Poisonwood Bible	,	Allen Literary Press
+41	,	The Bluest Eye	,	Harper Collins
+42	,	The Sound and the Fury	,	ThomsonReuters
+43	,	The Adventures of Tom Sawyer	,	Cengage
+44	,	Catch-22	,	Wiley
+45	,	The Chosen	,	Oxford
+46	,	East of Eden	,	Simon & Schuster
+47	,	I Know Why the Caged Bird Sings	,	Blue Press
+48	,	Walden and Other Writings	,	Oldford Publishing
+49	,	The Bean Trees	,	The Bonnier Group
+50	,	Billy Budd	,	Allen Literary Press
+51	,	The Color of Water: A Black Man's Tribute to His White Mother	,	Harper Collins
+52	,	Maggie	,	ThomsonReuters
+53	,	Song of Solomon	,	Cengage
+54	,	The Turn of the Screw and Other Short Novels	,	Wiley
+55	,	Alas, Babylon	,	Oxford
+56	,	Annie John	,	Simon & Schuster
+57	,	The Call of the Wild	,	Blue Press
+58	,	Cold Mountain	,	Oldford Publishing
+59	,	Fallen Angels	,	The Bonnier Group
+60	,	For Whom the Bell Tolls	,	Allen Literary Press
+61	,	The Fountainhead	,	Harper Collins
+62	,	Into the Wild	,	ThomsonReuters
+63	,	The Last of the Mohicans	,	Cengage
+64	,	A Prayer for Owen Meany	,	Wiley
+65	,	Pudd’nhead Wilson	,	Oxford
+66	,	The Road	,	Simon & Schuster
+67	,	Sula	,	Blue Press
+68	,	When I Was Puerto Rican: A Memoir	,	Oldford Publishing
+69	,	The Namesake: A Novel	,	The Bonnier Group
+70	,	The Absolutely True Diary of a Part-Time Indian	,	Allen Literary Press
+71	,	All the Pretty Horses	,	Harper Collins
+72	,	Ceremony	,	ThomsonReuters
+73	,	The Five People You Meet in Heaven	,	Cengage
+74	,	The Freedom Writers Diary	,	Wiley
+75	,	Johnny Got His Gun	,	Oxford
+76	,	The Light in the Forest	,	Simon & Schuster
+77	,	O Pioneers!	,	Blue Press
+78	,	Out of the Dust	,	Oldford Publishing
+79	,	McTeague	,	The Bonnier Group
+80	,	The Lone Ranger and Tonto Fistfight In Heaven	,	Allen Literary Press
+81	,	Dreaming in Cuban	,	Harper Collins
+82	,	Before We Were Free	,	ThomsonReuters
+83	,	The Autobiography of Malcolm X	,	Cengage
+84	,	The Autobiography of Miss Jane Pittman	,	Wiley
+85	,	Caramelo	,	Oxford
+86	,	The Dollmaker	,	Simon & Schuster
+87	,	Ellen Foster	,	Blue Press
+88	,	Fences	,	Oldford Publishing
+89	,	A Gathering of Old Men	,	The Bonnier Group
+90	,	The Glass Castle	,	Allen Literary Press
+91	,	Going After Cacciato	,	Harper Collins
+92	,	How the Garcia Girls Lost Their Accents	,	ThomsonReuters
+93	,	Kindred	,	Cengage
+94	,	Little Women	,	Wiley
+95	,	A Streetcar Named Desire	,	Oxford
+96	,	A Yellow Raft in Blue Water	,	Simon & Schuster
+97	,	Our Town	,	Blue Press
+98	,	Go Tell It on the Mountain	,	Oldford Publishing
+99	,	Mule Bone: A Comedy of Negro Life	,	The Bonnier Group
+100	,	If Beale Street Could Talk	,	Allen Literary Press
+101	,	The Lost Tribe	,	Allen Literary Press
+102	,	The Green Mile	,	Allen Literary Press
