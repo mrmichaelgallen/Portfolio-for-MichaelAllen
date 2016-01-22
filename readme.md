@@ -9,9 +9,16 @@ __HTML & CSS__
 
 * Build a login page
 
-
 **SQL Database**
-* Build a [Community Library Database](SQL/) Drill
-* Another link [Return to Portfolio](https://github.com/mrmichaelgallen/Portfolio-for-MichaelAllen/)
-* Hi - this is a test
+* Built a [Community Library Database](SQL/) Drill
+
+__JavaScript__
+* Built
+
+__Python__ 
+* Currently taking course
+
+__C#__
+* In development
+
 
