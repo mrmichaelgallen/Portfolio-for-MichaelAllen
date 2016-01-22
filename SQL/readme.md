@@ -1,4 +1,4 @@
 SQL Projects
 
 
-[Return to Portfolio](/mrmichaelgallen/Portfolio-for-MichaelAllen/)
+[Return to Portfolio](https://github.com/mrmichaelgallen/Portfolio-for-MichaelAllen/)
