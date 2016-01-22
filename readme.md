@@ -10,5 +10,7 @@ This repository is specifically meant for creations that I made while trying to 
 </ul>
 
 <strong>SQL Database</strong>
-Build a [Community Library Database](SQL/) Drill
+* Build a [Community Library Database](SQL/) Drill
+* Another link [Return to Portfolio](https://github.com/mrmichaelgallen/Portfolio-for-MichaelAllen/)
+* Hi - this is a test
 
