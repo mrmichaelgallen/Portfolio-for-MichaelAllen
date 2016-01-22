@@ -1,9 +1,9 @@
 ### A collection of coding creations by Michael Allen.
 ***
 
-I creating solutions to problems whether it is personal or technical. Learning and coding are a lot like running marathons, its hard work but well worth the reward.
+I love creating solutions to problems whether it is personal or technical. Learning and coding are a lot like running marathons, its hard work but well worth the reward.
 
-This repository contains my solutions to programming challenges that I resolved.
+This repository contains my solutions to programming challenges that I solved.
 
 #### HTML & CSS
 
