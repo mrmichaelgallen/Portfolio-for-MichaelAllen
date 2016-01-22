@@ -10,7 +10,7 @@ __HTML & CSS__
 * Build a login page
 
 
-<strong>SQL Database</strong>
+**SQL Database**
 * Build a [Community Library Database](SQL/) Drill
 * Another link [Return to Portfolio](https://github.com/mrmichaelgallen/Portfolio-for-MichaelAllen/)
 * Hi - this is a test
