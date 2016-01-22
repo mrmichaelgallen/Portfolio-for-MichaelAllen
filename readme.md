@@ -5,9 +5,9 @@ I love solving problems whether it be personal or technical. Learning and coding
 This repository is specifically meant for creations that I made while trying to solve a specific challenge.
 
 <strong>HTML & CSS</strong>
-<ul>
-<li>Build a login page</li>
-</ul>
+
+*Build a login page
+
 
 <strong>SQL Database</strong>
 * Build a [Community Library Database](SQL/) Drill
