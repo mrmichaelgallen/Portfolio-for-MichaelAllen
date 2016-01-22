@@ -8,6 +8,7 @@ This repository is a my solutions to programming challenges that I had to overco
 #### HTML & CSS
 
 * Built a [login page](/HTML-CSS/Login-Page) using HTML
+* Built [CSS Animation](/HTML-CSS/CSS-Animation)
 
 #### SQL Database
 * Built a [Community Library Database](SQL/) Drill
