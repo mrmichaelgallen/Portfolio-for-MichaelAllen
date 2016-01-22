@@ -1,27 +1,27 @@
-<strong>A collection of coding creations by Michael Allen.</strong> 
+### A collection of coding creations by Michael Allen.
 ***
 
 I love solving problems whether it be personal or technical. Learning and coding are a lot like running marathons, its hard work but well worth the reward.
 
 This repository is specifically meant for creations that I made while trying to solve a specific challenge.
 
-__HTML & CSS__
+#### HTML & CSS
 
 * Build a login page
 
-**SQL Database**
+#### SQL Database
 * Built a [Community Library Database](SQL/) Drill
 
-__JavaScript__
+#### JavaScript
 * Built
 
-__Python__ 
+#### Python
 * Currently taking course
 
-__C#__
-* In development
+#### C#
+* Next course
 
-__Team Projects__
-* Live-Project
+#### Team Projects
+* Live-Project after C# course
 
 
