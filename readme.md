@@ -18,7 +18,7 @@ This repository is a my solutions to programming challenges that I had to overco
 #### Python
 * Currently taking course
 
-#### C''#''
+#### C`#`
 * Next course
 
 #### Team Projects
