@@ -6,7 +6,7 @@ This repository is specifically meant for creations that I made while trying to 
 
 <strong>HTML & CSS</strong>
 
-*Build a login page
+* Build a login page
 
 
 <strong>SQL Database</strong>
