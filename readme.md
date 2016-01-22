@@ -14,7 +14,7 @@ This repository is a my solutions to programming challenges that I resolved.
 * Built a [Community Library Database](SQL/) Drill
 
 #### JavaScript
-* Built a script to scroll through images 
+* Built a script to create a [slide show](/JavaScript/Image-Slide-Show) of images of the solar system
 
 #### Python
 * Currently taking course
