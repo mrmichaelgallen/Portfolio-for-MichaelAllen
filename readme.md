@@ -1,4 +1,5 @@
-Description: A collection of coding creations by Michael Allen. 
+<strong>A collection of coding creations by Michael Allen.</strong> 
+---
 
 I love solving problems whether it be personal or technical. Learning and coding are a lot like running marathons, its hard work but well worth the reward.
 
