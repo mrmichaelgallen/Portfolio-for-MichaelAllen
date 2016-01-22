@@ -18,7 +18,7 @@ This repository is specifically meant for creations that I made while trying to 
 #### Python
 * Currently taking course
 
-#### C/#
+#### C'#'
 * Next course
 
 #### Team Projects
