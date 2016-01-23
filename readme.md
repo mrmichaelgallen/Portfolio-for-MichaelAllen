@@ -24,5 +24,8 @@ This repository contains my solutions to programming challenges that I solved.
 
 #### Team Projects
 * Live-Project after C# course
+* 
+
+#### Kendra is Cool
 
 
