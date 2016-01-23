@@ -9,6 +9,10 @@ My first step was to map out the relationship of the various relationships in th
 
 I then had to build queries using SQL syntax to with inner joins to answer a set of specific questions from the drill. I was also required to create Stored Procedures to make the queries resusable. 
 
+* Item 1
+* Item 2
+* Item 3
+
 I have uploaded the [sql file](SQLQuery_OregonLibraryTest.sql) with my work. 
 
 #### The Result
