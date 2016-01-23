@@ -11,12 +11,6 @@ I then had to build queries using SQL syntax to with inner joins to answer a set
 
 I have uploaded the [sql file](SQLQuery_OregonLibraryTest.sql) with my work. 
 
-```
-*** 
-
-Horizontal Rule
-```
-
 #### The Result
 I got all seven queries to work. One of the lessons I learned from this drill is that you can get a query to work, but you may not get an answer returend if there is no data related to that query. During my development of the dataset, I missed one of the required items that I was supposed to add. The query work, but there was no returns. It was not until after an instructor asked if I had the data in there that I realized the oversight. Once I imported that book into the database, the queried returned as expected.  
 
