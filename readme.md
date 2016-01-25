@@ -1,3 +1,24 @@
+### H3
+
+*** horizontal rule
+
+#### H4
+
+# H1
+
+## H2
+
+[brackets](url/here)
+
+```
+var function (a = b * c) {
+  i = 0
+}
+
+```
+
+
+
 ### A collection of coding creations by Michael Allen.
 ***
 
