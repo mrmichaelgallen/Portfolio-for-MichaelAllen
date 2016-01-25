@@ -11,7 +11,7 @@ This repository contains my solutions to programming challenges that I solved.
 * Built [CSS Animation](/HTML-CSS/CSS-Animation)
 
 #### SQL Database
-* Built a [Community Library Database](/SQL/Library-Pratical) Drill
+* Built a [Community Library Database](/SQL/Library-Practical) Drill
 
 #### JavaScript
 * Built a script to create a [slide show](/JavaScript/Image-Slide-Show) of images of the solar system
