@@ -30,7 +30,7 @@
 30	,	Beloved 	,	Allen Literary Press
 31	,	Hiroshima	,	Harper Collins
 32	,	Moby Dick	,	ThomsonReuters
-33	,	One Flew over the Cuckoo’s Nest	,	Cengage
+33	,	One Flew over the Cuckooâ€™s Nest	,	Cengage
 34	,	Black Boy	,	Wiley
 35	,	Bless Me, Ultima	,	Oxford
 36	,	Death of a Salesman	,	Simon & Schuster
@@ -62,7 +62,7 @@
 62	,	Into the Wild	,	ThomsonReuters
 63	,	The Last of the Mohicans	,	Cengage
 64	,	A Prayer for Owen Meany	,	Wiley
-65	,	Pudd’nhead Wilson	,	Oxford
+65	,	Puddâ€™nhead Wilson	,	Oxford
 66	,	The Road	,	Simon & Schuster
 67	,	Sula	,	Blue Press
 68	,	When I Was Puerto Rican: A Memoir	,	Oldford Publishing
