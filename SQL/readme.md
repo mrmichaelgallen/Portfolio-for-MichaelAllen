@@ -3,7 +3,7 @@
 
 A collection of SQL Projects developed by Michael Allen. 
 
-Please feel free to browse each project folder, which contains my work along with a readme file to explain the objective, the steps I took and the result. 
+Please feel free to browse each project folder to learn about my approach to solving software problems. Each folder also contains a readme file that explains the project's objective, the approach I took to resolve the challenge and the result. 
 
 
-[Return to Portfolio](https://github.com/mrmichaelgallen/Portfolio-for-MichaelAllen/)
+[Return to the Portfolio home page](https://github.com/mrmichaelgallen/Portfolio-for-MichaelAllen/)
