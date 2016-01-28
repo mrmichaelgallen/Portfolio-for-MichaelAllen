@@ -2,7 +2,7 @@
 ***
 
 #### Objective
-I was assigned a final pratical in my SQL course with The Tech Academy to develop a community libary system. The exercise required that I develop a database with an established flow chart showing the database and relationship. 
+I was assigned a final practical in my SQL course with The Tech Academy to develop a community libary system. The exercise required that I develop a database with an established flow chart showing the database and relationship. 
 
 #### Steps Taken
 My first step was to map out the relationship of the various relationships in the flow-chart. I then created my dataset by looking for the top 100 american literary works. Taking that information I used Google Sheets to sort the data, adding columns to insert commas between each data column. I then used a webapp to remove all the indents and spaces that Google Sheets inserts, which created a clean csv file which I used the command line to import once my database, tables and fields were created.
