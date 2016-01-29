@@ -8,15 +8,17 @@ In this course I was introduced to SQLite and integrating it with Python.
 The final drill was do the four following tasks:
 1. Create a database table in RAM named Roster that includes the fields 'Name', 'Species' and 'IQ'
 2. Populate your new table with the following values
-  1. asdf
-  2. asdf
-3. asdf
+  1. Jean-Baptiste Zorg, Human, 122
+  2. Korben Dallas, Meat Popsicle, 100
+  3. Ak'not, Mangalore, -5
+3. Update the Species of Korben Dallas to be Human
+4. Display the names and IQs of everyone in the table who is classified as Human
 
-### Steps
+### Steps Taken
 
-asdf
+For the SQLite script within the quotes, I used a lot of my prior experience with SQL to build out my commands. The Python portion took more research and work to ensure I had the write syntax to get it functioning.
 
 ### Results
 
-asdf
+Having had experience with SQL already it was easy to work with SQLite and develop the database commands needed to complete the drill within the quotes. It was the Python that required more trial and error to complete the drill. I was able to get all four drills in the assignement to work. 
 
