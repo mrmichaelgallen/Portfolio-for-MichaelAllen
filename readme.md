@@ -17,7 +17,7 @@ This repository contains my solutions to programming challenges that I solved.
 * Built a script to create a [slide show](/JavaScript/Image-Slide-Show) of images of the solar system
 
 #### Python
-* __Currently taking course__
+* Building a [SQLite database](/Python/Database-Using-Python) with Python
 
 #### C\# 
 * Next course
