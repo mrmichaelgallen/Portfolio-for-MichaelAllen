@@ -10,9 +10,9 @@ The final drill was do the four following tasks:
 2. Populate your new table with the following values
   1. Jean-Baptiste Zorg, Human, 122
   2. Korben Dallas, Meat Popsicle, 100
-  3. Ak'not, Mangalore,  
-3. Update the Species of Korben Dallas to be Human
-4. Display the names and IQs of everyone in the table who is classified as Human
+  3. Ak'not, Mangalore, \-5  
+4. 3. Update the Species of Korben Dallas to be Human
+5. Display the names and IQs of everyone in the table who is classified as Human
 
 ### Steps Taken
 
