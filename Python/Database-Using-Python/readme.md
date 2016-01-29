@@ -16,7 +16,7 @@ The final drill was do the four following tasks:
 
 ### Steps Taken
 
-For the SQLite script within the quotes, I used a lot of my prior experience with SQL to build out my commands. The Python portion took more research and work to ensure I had the write syntax to get it functioning.
+For the SQLite script within the quotes, I used a lot of my prior experience with SQL to build out my commands. The Python portion took more research and work to ensure I had the write syntax to get it functioning. Thank goodness for error messages that help narrow the search for where my code needed fixing.
 
 ### Results
 
