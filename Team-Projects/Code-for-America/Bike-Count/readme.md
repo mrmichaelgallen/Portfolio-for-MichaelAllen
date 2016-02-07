@@ -5,7 +5,9 @@
 
 Sacromento County wants to know how many people are commuting on bikes in certain locations within capitol at certain times of the day.
 
-Our team is in the process of establishing a website to allow the counters to be entered and a database to collect the data.
+Our team is in the process of establishing a website to allow the counters to be entered and a database to collect the data. 
+
+Read an indepth write on this [project](https://github.com/wleddy/bikeandwalk) on the Github Repository
 
 #### My Contributions
 
