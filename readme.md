@@ -3,7 +3,7 @@
 
 I love creating solutions to problems whether it is personal or technical. Learning and coding are a lot like running marathons, its hard work but well worth the reward. Learn more about my professional experience on [LinkedIn](https://www.linkedin.com/in/mrmichaelgallen). I also have a [blog](http://mrmichaelgallen.com/) about my experience in the development community.
 
-This repository contains my solutions to programming challenges that I solved.
+This repository contains my solutions to programming challenges that I solved. MG
 
 #### HTML & CSS
 
