@@ -24,6 +24,7 @@ This repository contains my solutions to programming challenges that I solved. M
 
 #### Team Projects
 * Live-Project after C# course
+* Code for Sacromento - [Bike and Walk Project](https://github.com/mrmichaelgallen/Portfolio-for-MichaelAllen/tree/master/Team-Projects/Code-for-America/Bike-Count)
 
 #### Hackathons
 * Hack the Dot in Portland on November 12, 2015 - [Team Tiger](https://github.com/liztom/hippohaus)
