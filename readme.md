@@ -9,6 +9,7 @@ This repository contains my solutions to programming challenges that I solved. M
 
 * Built a [login page](/HTML-CSS/Login-Page) using HTML
 * Built [CSS Animation](/HTML-CSS/CSS-Animation)
+* Rebuilt the [Oregon Road Runners Club](/HTML-CSS/ORRC-HomePage-Rebuild) home page
 
 #### SQL Database
 * Built a [Community Library Database](/SQL/Library-Practical) Drill
