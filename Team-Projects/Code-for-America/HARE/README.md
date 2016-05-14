@@ -7,11 +7,11 @@ What you were trying to accomplish
 
 #### Steps Taken
 
-What your team did (John Smith)[https://github.com/Koni-Davies] and what you folks did
+What your team did [John Smith](https://github.com/Koni-Davies) and what you folks did
 
 What you did as part of team (link to files that you were helped with)
 
-Check out the official (GitHub)[https://github.com/Koni-Davies/HARE] for this project.
+Check out the official [GitHub](https://github.com/Koni-Davies/HARE) for this project.
 
 #### Results
 
