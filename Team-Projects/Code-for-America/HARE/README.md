@@ -11,7 +11,7 @@ What your team did [John Smith](https://github.com/Koni-Davies) and what you fol
 
 What you did as part of team (link to files that you were helped with)
 
-Check out the official [GitHub](https://github.com/Koni-Davies/HARE) for this project.
+Check out the official [GitHub](https://github.com/Koni-Davies/HARE) for this project, which contain all the files.
 
 #### Results
 
