@@ -4,4 +4,4 @@
 #### Team Projects
 
 ##### Code for America
-* (HARE Project)[]
+* Project Here
