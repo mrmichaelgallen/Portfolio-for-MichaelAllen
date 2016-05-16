@@ -1,7 +1,7 @@
 ### A collection of coding creations by Michael Allen.
 ***
 
-I love creating solutions to problems whether it is personal or technical. Learning and coding are a lot like running marathons, its hard work but well worth the reward. Learn more about my professional experience on [LinkedIn](https://www.linkedin.com/in/mrmichaelgallen). I have learned my coding skills at The Tech Academy and online [Team Treehouse Learning](https://teamtreehouse.com/mrmichaelallen)
+I love creating solutions to problems whether it is personal or technical. Learning and coding are a lot like running marathons, its hard work but well worth the reward. Learn more about my professional experience on [LinkedIn](https://www.linkedin.com/in/mrmichaelgallen). I have learned my coding skills at The Tech Academy and online [Team Treehouse Learning](https://teamtreehouse.com/mrmichaelallen).
 
 This repository contains my solutions to programming challenges that I solved. MG
 
@@ -22,7 +22,6 @@ This repository contains my solutions to programming challenges that I solved. M
 
 #### C\# 
 * Next course after Python
-* Test
 
 #### Team Projects
 * Live-Project after C# course
