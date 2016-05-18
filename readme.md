@@ -21,7 +21,7 @@ This repository contains my solutions to programming challenges that I solved.
 * Building a [SQLite database](/Python/Database-Using-Python) with Python
 
 #### C\# 
-* Next course after Python
+* Course after Python
 
 #### Team Projects
 * Live-Project after C# course
