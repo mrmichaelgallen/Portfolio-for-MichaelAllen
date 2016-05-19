@@ -31,6 +31,7 @@ This repository contains my solutions to programming challenges that I solved.
 * Hack the Dot in Portland on February 4, 2016 - [Team Minnow](https://github.com/mrmichaelgallen/PersonalSpace-Rehab)
 
 #### Code for America
+* Project to allow users to snap a photo of an issue and send it to the appropriate government agency
 * Future Projects
 
 
