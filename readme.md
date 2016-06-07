@@ -16,6 +16,7 @@ This repository contains my solutions to programming challenges that I solved.
 
 #### JavaScript
 * Built a script to create a [slide show](/JavaScript/Image-Slide-Show) of images of the solar system
+* Formulas for Streak CRM
 
 #### Python
 * Building a [SQLite database](/Python/Database-Using-Python) with Python
@@ -33,5 +34,6 @@ This repository contains my solutions to programming challenges that I solved.
 #### Code for America
 * Project to allow users to snap a photo of an issue and send it to the appropriate government agency
 * Future Projects
+
 
 
