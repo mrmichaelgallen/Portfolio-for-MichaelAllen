@@ -33,7 +33,6 @@ This repository contains my solutions to programming challenges that I solved.
 
 #### Code for America
 * Project to allow users to snap a photo of an issue and send it to the appropriate government agency
-* Future Projects
 
 
 
