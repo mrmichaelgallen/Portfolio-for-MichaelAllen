@@ -34,6 +34,6 @@ This repository contains my solutions to programming challenges that I solved.
 * [Test Project for City of Portland](https://github.com/mrmichaelgallen/Portfolio-for-MichaelAllen/tree/master/Team-Projects/PDX_Component_Library)
 
 #### GitHub & Markdown Resources
-* Resources for [Markdown Syntax](https://github.com/mrmichaelgallen/Portfolio-for-MichaelAllen/tree/master/Projects/GitHub-Resources)
+* Resources for [GitHub & Markdown Syntax](https://github.com/mrmichaelgallen/Portfolio-for-MichaelAllen/tree/master/Projects/GitHub-Resources)
 
 
