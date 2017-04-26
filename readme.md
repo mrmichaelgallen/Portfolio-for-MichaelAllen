@@ -33,5 +33,7 @@ This repository contains my solutions to programming challenges that I solved.
 * Project to allow users to snap a photo of an issue and send it to the appropriate government agency
 * [Test Project for City of Portland](https://github.com/mrmichaelgallen/Portfolio-for-MichaelAllen/tree/master/Team-Projects/PDX_Component_Library)
 
+#### Mark Down Resources
+* Resources for [Mark Down Syntax](https://github.com/mrmichaelgallen/Portfolio-for-MichaelAllen/tree/master/Projects/GitHub-Resources)
 
 
