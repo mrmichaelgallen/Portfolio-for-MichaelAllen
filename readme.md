@@ -13,10 +13,11 @@ This repository contains my solutions to programming challenges that I solved.
 
 #### SQL Database
 * Built a [Community Library Database](/SQL/Library-Practical) Drill
+* Running Database
 
 #### JavaScript
 * Built a script to create a [slide show](/JavaScript/Image-Slide-Show) of images of the solar system
-* Formulas develeped for Streak CRM
+* Formulas develeped for Streak CRM.
 
 #### Python
 * Building a [SQLite database](/Python/Database-Using-Python) with Python
@@ -30,6 +31,9 @@ This repository contains my solutions to programming challenges that I solved.
 
 #### Code for America
 * Project to allow users to snap a photo of an issue and send it to the appropriate government agency
+* [Test Project for City of Portland](https://github.com/mrmichaelgallen/Portfolio-for-MichaelAllen/tree/master/Team-Projects/PDX_Component_Library)
 
+#### GitHub & Markdown Resources
+* Resources for [GitHub & Markdown Syntax](https://github.com/mrmichaelgallen/Portfolio-for-MichaelAllen/tree/master/Projects/GitHub-Resources)
 
 
