@@ -5,6 +5,10 @@ I love creating solutions to problems whether it is personal or technical. Learn
 
 This repository contains my solutions to programming challenges that I solved.
 
+#### Python
+* [Running Pace Calculator](https://github.com/mrmichaelgallen/Portfolio-for-MichaelAllen/blob/master/Python/Running-Pace-Calculator/readme.md)
+* Building a [SQLite database](/Projects/Python/Database-Using-Python) with Python
+
 #### HTML & CSS
 
 * Built a [login page](/Projects/HTML-CSS/Login-Page) using HTML
@@ -19,12 +23,8 @@ This repository contains my solutions to programming challenges that I solved.
 * Built a script to create a [slide show](/Projects/JavaScript/Image-Slide-Show) of images of the solar system
 * Formulas develeped for Streak CRM.
 
-#### Python
-* [Running Pace Calculator](https://github.com/mrmichaelgallen/Portfolio-for-MichaelAllen/blob/master/Python/Running-Pace-Calculator/readme.md)
-* Building a [SQLite database](/Projects/Python/Database-Using-Python) with Python
-
 #### C\# 
-* Course after Python
+* Future projects
 
 #### Hackathons
 * Hack the Dot in Portland on November 12, 2015 - [Team Tiger](https://github.com/liztom/hippohaus)
