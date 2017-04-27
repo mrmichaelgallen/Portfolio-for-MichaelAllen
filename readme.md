@@ -6,7 +6,7 @@ I love creating solutions to problems whether it is personal or technical. Learn
 This repository contains my solutions to programming challenges that I solved.
 
 #### Python
-* [Running Pace Calculator](https://github.com/mrmichaelgallen/Portfolio-for-MichaelAllen/blob/master/Python/Running-Pace-Calculator/readme.md)
+* [Running Pace Calculator](/Projects/Python/Running-Pace-Calculator/readme.md)
 * Building a [SQLite database](/Projects/Python/Database-Using-Python) with Python
 
 #### HTML & CSS
