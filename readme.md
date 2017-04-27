@@ -20,6 +20,7 @@ This repository contains my solutions to programming challenges that I solved.
 * Formulas develeped for Streak CRM.
 
 #### Python
+* [Running Pace Calculator](https://github.com/mrmichaelgallen/Portfolio-for-MichaelAllen/blob/master/Python/Running-Pace-Calculator/readme.md)
 * Building a [SQLite database](/Python/Database-Using-Python) with Python
 
 #### C\# 
