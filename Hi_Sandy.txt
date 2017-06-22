@@ -1,6 +1,0 @@
-This is a test line before I add to Version Control Tracking
-This is a line written on GitHub
-This is the third line written on the local machine
-This is the fourth line written on the local machine
-This is the fifth line written on the local machine
-
