@@ -1,0 +1,27 @@
+# List Comprehension
+
+userNumber = int(input("Give me any integer to create a list: "))
+
+print(userNumber)
+
+toPowerOfInput = [x**2 for x in range(0, userNumber)]
+
+print(toPowerOfInput)
+
+plusInput = [2 + x for x in range(0, userNumber)]
+
+print(plusInput)
+
+minusInput = [2 - x for x in range(0, userNumber)]
+
+print(minusInput)
+
+'''
+Output:
+
+Give me any integer to create a list: 10
+10
+[0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+[2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+[2, 1, 0, -1, -2, -3, -4, -5, -6, -7]
+'''
