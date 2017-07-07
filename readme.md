@@ -36,4 +36,4 @@ This repository contains my solutions to programming challenges that I solved.
 #### GitHub & Markdown Resources
 * Resources for [GitHub & Markdown Syntax](Projects/GitHub-Resources)
 
-[//]:#(This is a comment)
+#(This is a comment)
