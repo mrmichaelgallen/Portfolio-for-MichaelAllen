@@ -1,6 +1,8 @@
 ### GitHub Resources
 ***
+:+1:
 
+* [GitHub Markdown Syntax Cheat-Sheet](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 * [Markdown Cheat-Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 * [Markdown Philosophy](http://daringfireball.net/projects/markdown/syntax)
 * [Michael Allen's GitHub](https://github.com/mrmichaelgallen)
