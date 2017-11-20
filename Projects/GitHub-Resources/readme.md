@@ -1,10 +1,9 @@
 ### GitHub Resources
 ***
-:battery:
-:+1:
 
 * [GitHub Markdown Syntax Cheat-Sheet](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 * [Markdown Cheat-Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+* [Emoji Codes :+1:](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 * [Markdown Philosophy](http://daringfireball.net/projects/markdown/syntax)
 * [Michael Allen's GitHub](https://github.com/mrmichaelgallen)
 
