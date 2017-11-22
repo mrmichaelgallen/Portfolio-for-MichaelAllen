@@ -6,7 +6,7 @@ I love creating solutions to problems whether it is personal or technical. Learn
 This repository contains my solutions to programming challenges that I solved.
 
 #### Python
-* [FizzBuzz](https://gist.github.com/mrmichaelgallen/d4a04cdade3a673f51f458b80f0873dd)
+* [FizzBuzz](https://gist.github.com/mrmichaelgallen/d4a04cdade3a673f51f458b80f0873dd) on Gist
 * [Running Pace Calculator](/Projects/Python/Running-Pace-Calculator/readme.md)
 * Building a [SQLite database](/Projects/Python/Database-Using-Python) with Python
 
